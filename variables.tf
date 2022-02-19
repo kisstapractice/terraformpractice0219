@@ -1,3 +1,4 @@
+#fixed
 variable "AWS_ACCESS_KEY" {
     type = string
     default = "AKIATMRFM2ULQ3MBVTNG"
