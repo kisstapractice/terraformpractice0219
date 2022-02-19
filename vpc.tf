@@ -1,4 +1,4 @@
-#Create AWS VPC
+#Create AWS VPC for practice
 resource "aws_vpc" "levelupvpc" {
   cidr_block       = "10.0.0.0/16"
   instance_tenancy = "default"
